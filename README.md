@@ -2,7 +2,7 @@
   
 # 👋 ¡Hola, Soy Alexis Mendoza!
 
-### Estudiante de Ingeniería en Sistemas de Información en la Universidad Central del Ecuador (UCE) | **Full-Stack Developer en Formación** 💻
+### Egresado de Ingeniería en Sistemas de Información en la Universidad Central del Ecuador (UCE) | **Full-Stack Developer en Formación** 💻
 
 <p align="center">
   <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="380px" alt="Coding GIF"/>
