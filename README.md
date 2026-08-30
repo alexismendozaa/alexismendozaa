@@ -1,101 +1,190 @@
 <div align="center">
-  
-# 👋 ¡Hola, Soy Alexis Mendoza!
 
-### Egresado de Ingeniería en Sistemas de Información en la Universidad Central del Ecuador (UCE) | **Full-Stack Developer en Formación** 💻
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Alexis%20Mendoza&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Ingeniero%20en%20Sistemas%20de%20Información&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="380px" alt="Coding GIF"/>
-</p>
+<a href="https://www.linkedin.com/in/alexis-mendoza-99b816244/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:alexismendozaoxi@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Backend+%7C+Spring+Boot+%2F+Node.js;Frontend+%7C+React+%2F+Next.js;DevOps+%7C+Docker+%2F+AWS;Explorando+Ciberseguridad+e+IA" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
 
-## 🎯 Acerca de Mí y Misión Personal 
+<hr/>
 
-Soy un desarrollador **Fullstack en formación, Ingeniero en Sistemas a punto de graduarme en la UCE**, con una pasión por la **arquitectura de sistemas distribuidos y las soluciones digitales end-to-end**.
-
-Mi enfoque principal es en **construir bases de código robustas y escalables en el *backend*** (utilizando frameworks como Spring Boot y Node.js), a la vez que integro **metodologías DevOps (Docker, AWS) para asegurar un despliegue continuo y eficiente**. Me interesa también el diseño de experiencias de usuario intuitivas con React y estoy activamente explorando campos de vanguardia como la **Ciberseguridad y la Inteligencia Artificial**.
-
-> **✨ Misión Personal:** Transformar ideas complejas en productos digitales simples, elegantes y funcionales que generen un impacto positivo y valor real a la comunidad y a los usuarios.
-
----
-
-## 🛠️ Tecnologías que Manejo 
-
-### 🔹 Lenguajes de Programación 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,cs,java,php" height="40"/>
-</p>
-
-### 🔹 Frontend & Diseño 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css,figma,bootstrap" height="40"/>
-</p>
-
-### 🔹 Backend & Frameworks 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,flask,fastapi" height="40"/>
-</p>
-
-### 🔹 Bases de Datos 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,oracle" height="40"/>
-</p>
-
-### 🔹 DevOps & Cloud 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" height="40"/>
-</p>
-
----
-
-## 📚 En Aprendizaje 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,jenkins,redis,kafka,azure" height="40"/>
-</p>
-
-* 🔒 **Ciberseguridad** (Seguridad de APIs, auditorías).
-* 🧠 **Inteligencia Artificial** (NLP y Visión por Computadora).
-* 🏗️ **Arquitectura Serverless** (Profundización en AWS Lambda).
-* ☸️ **Orquestación de Contenedores** (Kubernetes).
-
----
-
-## ⭐ Habilidades Blandas (Soft Skills) 
-
-✔ Trabajo en equipo multidisciplinario.
-✔ Resolución de problemas con pensamiento crítico.
-✔ Comunicación efectiva (técnica y no técnica).
-✔ Adaptabilidad y mejora continua.
-✔ Organización, gestión del tiempo y orientación a resultados.
-
----
-
-## 📈 Mi Actividad en GitHub 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexismendozaa&show_icons=true&theme=dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexismendozaa&layout=compact&langs_count=8&theme=dark" height="170"/>
-</div>
-
-
----
-
-## ✉️ Conéctate Conmigo
+<br/>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexismendozaoxi@hotmail.com)
-  
+### Sobre mí
+
 </div>
 
----
+<table align="center" width="100%">
+<tr>
+<td width="100%">
+
+Soy desarrollador **Fullstack** e **Ingeniero en Sistemas de Información** (Universidad Central del Ecuador), con especial interés en la **arquitectura de sistemas distribuidos** y las soluciones digitales *end-to-end*.
+
+Mi trabajo se centra en construir bases de código **robustas y escalables en el backend** —principalmente con **Spring Boot** y **Node.js**— integrando prácticas **DevOps** con **Docker** y **AWS** para lograr despliegues continuos y eficientes. En el frontend, disfruto diseñar interfaces claras e intuitivas con **React**. Actualmente amplío mi formación hacia la **ciberseguridad** y la **inteligencia artificial**.
+
+<br/>
+
+> *Transformo ideas complejas en productos digitales simples, elegantes y funcionales que generan valor real para las personas que los usan.*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<hr/>
+
+<br/>
+
 <div align="center">
-  <p>Construyendo el futuro, una línea de código a la vez. 💖</p>
+
+### Stack Tecnológico
+
+<br/>
+
+<table width="640">
+<tr>
+<td align="right" width="130"><b>Lenguajes</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=js,py,cs,java,php" height="36"/></td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td align="right"><b>Frontend</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css,figma,bootstrap" height="36"/></td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td align="right"><b>Backend</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,flask,fastapi" height="36"/></td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td align="right"><b>Bases de Datos</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,oracle" height="36"/></td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td align="right"><b>DevOps & Cloud</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" height="36"/></td>
+</tr>
+</table>
+
 </div>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJyeTVncGE3a3huejV3eTBuNjA3a3N4czhiY2Q5MWdweDJwMTVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="350px" />
-</p>
+<br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+
+### En Formación
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=kubernetes,jenkins,redis,kafka,azure" height="36"/>
+
+<br/><br/>
+
+</div>
+
+<table align="center" width="90%">
+<tr>
+<td width="50%">
+
+**Ciberseguridad**
+<br/><sub>Seguridad de APIs y auditorías</sub>
+
+</td>
+<td width="50%">
+
+**Inteligencia Artificial**
+<br/><sub>NLP y visión por computadora</sub>
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%">
+
+**Arquitectura Serverless**
+<br/><sub>AWS Lambda</sub>
+
+</td>
+<td width="50%">
+
+**Kubernetes**
+<br/><sub>Orquestación de contenedores</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+
+### Habilidades Blandas
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="20%"><b>Trabajo en equipo</b><br/><sub>Colaboración multidisciplinaria</sub></td>
+<td align="center" width="20%"><b>Pensamiento crítico</b><br/><sub>Resolución de problemas</sub></td>
+<td align="center" width="20%"><b>Comunicación</b><br/><sub>Técnica y no técnica</sub></td>
+<td align="center" width="20%"><b>Adaptabilidad</b><br/><sub>Mejora continua</sub></td>
+<td align="center" width="20%"><b>Organización</b><br/><sub>Gestión del tiempo</sub></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+
+### Contacto
+
+<br/>
+
+<a href="https://www.linkedin.com/in/alexis-mendoza-99b816244/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:alexismendozaoxi@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/><br/>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJyeTVncGE3a3huejV3eTBuNjA3a3N4czhiY2Q5MWdweDJwMTVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="280px"/>
+
+<br/><br/>
+
+<sub>Construyendo el futuro, una línea de código a la vez 💖</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer" width="100%"/>
+
+</div>
